@@ -1,0 +1,38 @@
+public class SomaDeNumero {
+    public static void main(String[] args) {
+
+
+        int a = 10;
+        int b = 15;
+
+        int result = a + b;
+        int difference = a - b;
+        int product = a * b;
+        int quotient = b / a;
+        int remainder = b % a;
+
+        System.out.println("resultado é " +  + result);
+        System.out.println("diff is " + difference);
+        System.out.println("product is " + product);
+        System.out.println("quotient is "+ quotient);
+        System.out.println("remainder is "+ remainder);
+
+        result += 1;
+        System.out.println("result is now " + result);
+
+        result++;
+        System.out.println("result++ " + result);
+
+        result--;
+        System.out.println("result-- " + result);
+
+        //Desafio
+
+        int g = 2;
+        int h = 4;
+
+        int resultado = g*h;
+        resultado *= 2;
+        System.out.println("Resultado da multiplicação de um produto por dois, na mesma variavel: " + resultado);
+    }
+}

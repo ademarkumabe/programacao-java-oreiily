@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section2-Projects/Section2-Projects.iml" filepath="$PROJECT_DIR$/Section2-Projects/Section2-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3-Projects/Section3-Projects.iml" filepath="$PROJECT_DIR$/Section3-Projects/Section3-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programacao-java-oreiily.iml" filepath="$PROJECT_DIR$/.idea/programacao-java-oreiily.iml" />
+    </modules>
+  </component>
+</project>
